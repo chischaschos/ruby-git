@@ -249,3 +249,7 @@ Some examples of more low-level index and tree operations
       # do file work
       g.commit # commits to index
     end
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chischaschos/ruby-git/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
